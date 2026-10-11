@@ -1,6 +1,6 @@
 # ZG ZoneEssentials — releases and compatibility
 
-Source version snapshot: **4.5.0**. This is not a claim that a matching protected release file has been uploaded.
+Current protected pair: **server 4.5.1 + client 4.5.1**, published as Beta in one CurseForge project. No gameplay or wire changes from 4.5.0.
 
 - Minecraft 1.20.1, Forge 47.x.
 - Distribution layout: **paired**.
@@ -11,4 +11,5 @@ Source version snapshot: **4.5.0**. This is not a claim that a matching protecte
 
 ## Español
 
-La versión de las fuentes revisadas es **4.5.0**; eso no significa que se haya subido un JAR final protegido. Comprueba la pareja cliente/servidor, SHA-256, dependencias y notas de cambios de cada archivo publicado. No instales JAR `-dev`, de pruebas ni de compilación sin protección.
+La pareja protegida actual es **servidor 4.5.1 + cliente 4.5.1**, cargada como Beta en un único proyecto CurseForge. Sin cambios de juego ni protocolo desde 4.5.0. Comprueba la pareja cliente/servidor, SHA-256, dependencias y notas de cambios de cada archivo publicado. No instales JAR `-dev`, de pruebas ni de compilación sin protección.
+
