@@ -1,8 +1,14 @@
 # ZG ZoneEssentials
 
+## Update / Actualización — 2026-10-17
+
+Selected version / Versión seleccionada: **server 4.5.4 / client 4.5.4**. New file availability depends on CurseForge approval / La disponibilidad de los archivos nuevos depende de su aprobación en CurseForge.
+
+See [changes, exact files and installation](UPDATES-2026-10-17.md) / Consulta [cambios, archivos e instalación](UPDATES-2026-10-17.md). Preserve the world and TOML files / Conserva mundo y TOML.
+
 ## English
 
-Homes, warps, TPA, kits, jobs, shop, auctions, moderation and travel tools. Current protected pair: server 4.5.1 + client 4.5.1, Minecraft 1.20.1 / Forge 47.x.
+Homes, warps, TPA, kits, jobs, shop, auctions, moderation and travel tools. Current protected pair: server 4.5.4 + client 4.5.4, Minecraft 1.20.1 / Forge 47.x.
 
 ### Installation
 
@@ -24,7 +30,7 @@ See [configuration reference](CONFIGURATION.md) for keys detected in source and 
 
 ## Español
 
-Homes, warps, TPA, kits, trabajos, tienda, subastas, moderación y viajes. Pareja protegida: servidor 4.5.1 + cliente 4.5.1, Minecraft 1.20.1 / Forge 47.x.
+Homes, warps, TPA, kits, trabajos, tienda, subastas, moderación y viajes. Pareja protegida: servidor 4.5.4 + cliente 4.5.4, Minecraft 1.20.1 / Forge 47.x.
 
 ### Instalación
 
