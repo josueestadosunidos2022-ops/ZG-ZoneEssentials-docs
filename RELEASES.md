@@ -1,4 +1,4 @@
-# ZG ZoneEssentials — releases and compatibility
+# ZoneEssentials — releases and compatibility
 
 Current protected pair: **server 4.5.1 + client 4.5.1**, published as Beta in one CurseForge project. No gameplay or wire changes from 4.5.0.
 
