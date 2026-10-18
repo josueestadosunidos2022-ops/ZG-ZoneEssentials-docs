@@ -1,4 +1,4 @@
-# ZG ZoneEssentials
+# ZoneEssentials
 
 ## Update / Actualización — 2026-10-17
 
