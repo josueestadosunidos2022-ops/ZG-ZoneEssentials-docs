@@ -1,3 +1,19 @@
+# ZoneEssentials
+
+## Current build / Versión actual — 2026-11-03 revision 3
+
+4.5.10
+
+[Server](https://www.curseforge.com/minecraft/mc-mods/zoneessentials/files/9430598) · [Client](https://www.curseforge.com/minecraft/mc-mods/zoneessentials/files/9430560)
+
+Both sides must use 4.5.10. /warp opens the permission-filtered scrolling interface; /warp name and saved destinations remain available. / Ambos lados 4.5.10; /warp abre la interfaz y conserva destinos, permisos y comando directo.
+
+[English / Español installation and changes](RELEASE-2026-11-03-r3.md). Availability follows each file approval. / Disponibilidad según aprobación del archivo.
+
+## Historical documentation / Documentación histórica
+
+Versions below are earlier releases; the current build above takes precedence. / Las versiones siguientes son anteriores; prevalece la versión actual de arriba.
+
 # ZoneEssentials 4.5.9
 
 ## English
